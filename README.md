@@ -1,3 +1,3 @@
 ## About This Project
 
-This project was goven as an assignmentto replicate the unDraw website.
+This project was given as an assignment to replicate the unDraw website.
